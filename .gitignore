@@ -1,0 +1,24 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven/build output
+target/
+*.class
+
+# IDE/editor files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment/configuration
+.env
+.env.*
+
+# Local logs
+*.log
