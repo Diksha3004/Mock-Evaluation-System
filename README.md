@@ -49,10 +49,16 @@ The Mock Evaluation System is designed to centralize the management of mock eval
 | Apache Tomcat 9 | Application server |
 
 
-##  Screenshots
+## Screenshots
 
 ### Login Page
 ![Login Page](Screenshots/loginpg.png)
+
+### Admin Dashboard
+![Admin Dashboard](Screenshots/AdminDashboard.png)
+
+### Batch Management
+![Batch Management](Screenshots/Batch.png)
 
 ### Evaluator Dashboard
 ![Evaluator Dashboard](Screenshots/EvaluatorDashboard.png)
@@ -60,8 +66,23 @@ The Mock Evaluation System is designed to centralize the management of mock eval
 ### Evaluator Assignment
 ![Evaluator Assignment](Screenshots/EvaluatorAssignment.png)
 
+### Participants Details
+![Participants Details](Screenshots/ParticipantsDetails.png)
+
+### Evaluation History
+![Evaluation History](Screenshots/EvaluationHistory.png)
+
 ### Evaluation Analytics
 ![Evaluation Analytics](Screenshots/EvaluationAnalytics.png)
+
+### Reports
+![Reports](Screenshots/Reports.png)
+
+### Workload
+![Workload](Screenshots/Workload.png)
+
+### Export PDF
+![Export PDF](Screenshots/ExportPDF.png)
 
 ## Project Structure
 
