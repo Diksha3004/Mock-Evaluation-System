@@ -2,6 +2,9 @@
 
 A Java web application for managing mock interviews/evaluations, participants, evaluators, batches, technologies, rounds, assignments, scoring and reports.
 
+## Project Objective
+The Mock Evaluation System is designed to centralize the management of mock evaluations by allowing administrators to manage batches, technologies, participants, evaluation rounds and evaluator assignments, while enabling evaluators to record scores, feedback and evaluation results.
+
 ## Features
 
 ### Admin
@@ -44,6 +47,21 @@ A Java web application for managing mock interviews/evaluations, participants, e
 | iText | PDF report generation |
 | HTML/CSS/JavaScript | Frontend |
 | Apache Tomcat 9 | Application server |
+
+
+##  Screenshots
+
+### Login Page
+![Login Page](Screenshots/loginpg.png)
+
+### Evaluator Dashboard
+![Evaluator Dashboard](Screenshots/EvaluatorDashboard.png)
+
+### Evaluator Assignment
+![Evaluator Assignment](Screenshots/EvaluatorAssignment.png)
+
+### Evaluation Analytics
+![Evaluation Analytics](Screenshots/EvaluationAnalytics.png)
 
 ## Project Structure
 
@@ -124,3 +142,11 @@ Database credentials are intentionally loaded from environment variables rather 
 - Add role-based security improvements
 - Containerize the application with Docker
 - Add CI/CD with GitHub Actions
+
+##  Author
+
+**Diksha Kashid**
+
+B.Tech – Artificial Intelligence and Data Science
+
+GitHub: [Diksha3004](https://github.com/Diksha3004)
